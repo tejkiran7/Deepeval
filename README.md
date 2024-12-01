@@ -16,8 +16,8 @@ Real-time evaluations in production.
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/tejkiran7/Deepeval.git
+   cd Deepeval
 
 2. Install the required dependencies:
     ```bash
